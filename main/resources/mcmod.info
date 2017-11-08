@@ -1,0 +1,16 @@
+[
+{
+  "modid": "goillusion",
+  "name": "Game Of Illusion",
+  "description": "GoI is trying to be a copy or a mod fron the original Game Of Illusion , still in a working fase.",
+  "version": "1.12.2-1.0",
+  "mcversion": "${1.12.2}",
+  "url": "http://www.gameofillusion.com",
+  "updateUrl": "",
+  "authorList": ["Concarster, Nkcclove, LNirvana, LWarrior"],
+  "credits": "The Game Of Illusion Team",
+  "logoFile": "assets/goillusion/logos/goillusion.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

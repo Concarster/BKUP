@@ -1,0 +1,7 @@
+itemGroup.illusion_tab=Illusion Mod
+
+tile.block_base.name=Base Block
+tile.block_simple.name=Simple Block
+tile.block_simple2.name=Simple Block
+item.item_base.name=Base Item
+item.item_simple.name=Base Item
